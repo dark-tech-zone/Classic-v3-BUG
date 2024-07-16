@@ -98,7 +98,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Samue-l1/Classic-v3-BUG
+git clone https://github.com/dark-tech-zone/Classic-v3-BUG
 cd Classic-v3-BUG
 yarn install
 npm start
@@ -111,7 +111,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/Samue-l1/Classic-v3-BUG 
+git clone https://github.com/dark-tech-zone/Classic-v3-BUG
 cd Classic-v3-BUG
 npm start
 ```
